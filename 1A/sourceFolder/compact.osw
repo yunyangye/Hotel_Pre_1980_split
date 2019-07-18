@@ -28,12 +28,6 @@
 			}
 		},
 		{
-			"measure_dir_name": "ChangeCOPforSingleSpeedDXCoolingUnits",
-			"arguments": {
-				"cop": 3.0
-			}
-		},
-		{
 			"measure_dir_name": "SetHeatingandCoolingSizingFactors",
 			"arguments": {
 				"htg_sz_factor": 1.25,
